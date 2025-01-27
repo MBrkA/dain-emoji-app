@@ -7,5 +7,3 @@ import { dainService } from "./services/emoji-service";
   await dainService.startNode({ port: 2022 });
   console.log("Service started on port 2022");
 })();
-
-// test message
