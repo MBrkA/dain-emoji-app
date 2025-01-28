@@ -10,7 +10,7 @@
       "deploy": "dain deploy"
     },
     "dependencies": {
-      "@dainprotocol/service-sdk": "^1.0.51",
+      "@dainprotocol/service-sdk": "^1.0.77",
       "zod": "^3.23.8",
       "hono": "^4.6.3",
       "axios": "^1.7.7"
